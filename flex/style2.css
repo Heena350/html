@@ -1,0 +1,125 @@
+.parent { 
+    background-color:white; 
+    /*width: 300px;*/
+   height: 200px;
+    display: flex; 
+    justify-content:center;
+    align-items:flex-end; 
+    align-content:bottom; 
+    flex-wrap: wrap;
+    column-gap:10px;
+    margin-left:5px;
+
+} 
+
+
+.textbx{
+    margin-left: 300px;
+    margin-top: 70px;
+    background-position:center;
+    background-size:cover;
+    width:400px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+
+.txt1{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.txt2{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+    overflow-wrap: break-word;
+}
+
+
+.EXPLORE{
+    background-color: black;
+    color:white;
+    border-radius:10px;
+    padding:10px 30px 10px 30px;
+    object-position:center;
+    margin-top: 30px;
+}
+ 
+.child1 { 
+
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+    
+} 
+
+.child2 { 
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+} 
+
+.child3 { 
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+} 
+
+.child4 { 
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+} 
+
+.parent2 { 
+    background-color:white;
+   /* width:900px;*/
+    height: 200px;
+    display: flex; 
+    justify-content:center;
+    align-items:flex-start;
+    align-content:bottom; 
+    flex-wrap: wrap;
+    margin-top:10px;
+    column-gap:10px;
+    
+} 
+
+.child5 { 
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+} 
+
+.child6 {
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+} 
+
+.child7 { 
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.child8{
+    width:180px; 
+    height: 160px; 
+    border-radius: 10px;
+    overflow: hidden; 
+}
+
